@@ -1,4 +1,4 @@
-This dataset was originally downloaded from Kaggle.
+This dataset was originally downloaded from [Kaggle](https://www.kaggle.com/datasets/gpiosenka/sports-classification).
 
 The goal of this repository is to facilitate the teaching of Python classes with organized data.
 
